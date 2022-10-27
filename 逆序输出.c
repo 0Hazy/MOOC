@@ -1,3 +1,4 @@
+/*三位数整数逆序*/
 #include<stdio.h>
 int main ()
 {
